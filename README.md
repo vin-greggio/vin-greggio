@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I'm currently studying Statistics and Data Science at the State University of Campinas (Unicamp). Passionate about big data, machine learning, and AI, I've worked on undergraduate research projects (funded by FAPESP) in data analysis and now serve as a project manager at Quanta Júnior, Unicamp's data science junior enterprise.
+I'm currently studying Statistics and Data Science at the State University of Campinas (Unicamp). Passionate about big data, machine learning, and AI, I've worked on undergraduate research projects (funded by FAPESP) in data functional data analysis and now serve as a project manager at Quanta Júnior, Unicamp's data science junior enterprise. I'm interested in logistics, finance and business strategy, and my goal is to help businesses thrive with efficiency using data-driven, accurate insights.
 
 * 🌍  I'm based in Campinas, São Paulo, Brazil
 * ✉️  You can contact me at [vinicius.greggio@gmail.com](mailto:vinicius.greggio@gmail.com)
