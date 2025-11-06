@@ -6,7 +6,7 @@ Data Scientist
 
 I'm currently studying Statistics and Data Science at the State University of Campinas (Unicamp). Passionate about big data, machine learning, and AI, I've worked on undergraduate research projects (funded by FAPESP) in functional data analysis and now serve as a data science intern at Oper. I'm interested in logistics, finance and business strategy, and my goal is to help businesses thrive with efficiency using data-driven, accurate insights.
 
-In my github I keep some personal/school projects such as a *Discord bot*, my *Database Manipulation discipline (ME315) final project in SQL and Python*, my *Undergraduate Research project in R and MATLAB*.
+In my github I keep some personal/school **projects** such as a **Discord bot**, my **Database Manipulation discipline (ME315) final project in SQL and Python**, my **Undergraduate Research project in R and MATLAB**.
 
 * 🌍  I'm based in Campinas, São Paulo, Brazil
 * ✉️  You can contact me at [vinicius.greggio@gmail.com](mailto:vinicius.greggio@gmail.com)
